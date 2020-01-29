@@ -21,4 +21,4 @@ export class TodoItemModel {
     isEmptyTitle() {
         return this.title.length === 0;
     }
-
+}
